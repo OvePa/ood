@@ -13,3 +13,8 @@ Liskov Substitution Principle
 Interface Segregation Principle
 
 Dependency Inversion Principle
+
+## Real World Design Problems
+
+* Parking Lot
+* Elevator System
